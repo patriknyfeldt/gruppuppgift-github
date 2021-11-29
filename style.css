@@ -60,6 +60,19 @@ footer p {
   border-radius: 50%;
   animation: bounce 5s ease-in-out infinite;
 }
+
+nav {
+  border: 2px solid crimson;
+  margin: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 16px;
+  color: brown;
+  margin: 10px;
+}
+
 @keyframes bounce{
   0%{
     top: 50%;
