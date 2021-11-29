@@ -58,7 +58,7 @@ footer p {
   width: 100px;
   background-color: red;
   border-radius: 50%;
-  animation: bounce 5s ease-in-out infinite;
+  animation: bounce 1.5s ease-in-out infinite;
 }
 
 nav {
@@ -77,13 +77,20 @@ nav a {
   0%{
     top: 50%;
     left: 50%;
+    
+  }
+  20%{
+    left: 80%;
   }
   50%{
-    top: 80%;
+    top: 79%;
     left: 50%;
+  }
+  80%{
+    left: 20%
   }
   100%{
     top: 50%;
-   left: 50%;
+    left: 50%;
   }
 }
