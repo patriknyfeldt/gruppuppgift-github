@@ -25,11 +25,11 @@ footer {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  color: white; 
-  font-size: 35px; 
+  color: white;
+  font-size: 35px;
   transition: 2s linear;
 }
-footer:hover{
+footer:hover {
   height: 200px;
 }
 
@@ -46,6 +46,5 @@ footer p {
   color: green;
   position: absolute;
   top: 50%;
-  right: 10%
-
+  right: 10%;
 }
