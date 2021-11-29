@@ -24,7 +24,7 @@ footer p {
   display: grid;
   grid-template-columns: auto auto;
 }
-.gitItem{
+.gridItem{
   background-color: brown;
   border: solid 1px blueviolet;
   width: 20%;
