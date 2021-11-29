@@ -63,8 +63,7 @@ footer p {
 @keyframes bounce{
   0%{
     top: 50%;
-    left: 50%;
-    
+    left: 50%
   }
   20%{
     left: 80%;
