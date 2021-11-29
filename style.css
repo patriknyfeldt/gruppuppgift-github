@@ -32,6 +32,12 @@ footer:hover{
   background-color: black;
   border: solid 4px red;
 }
+.nav:hover{
+  height: 200px;
+  width: 30%;
+  transition: 0.3s;
+  
+}
 
 footer p {
   font-size: 100px;
